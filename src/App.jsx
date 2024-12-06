@@ -2,7 +2,7 @@
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import Footer from './components/Footer'
-import Header from './Components/Header'
+import Header from './components/Header'
 import Cart from './Pages/Cart'
 import Home from './Pages/Home'
 import Wishlist from './Pages/Wishlist'
